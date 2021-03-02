@@ -15,3 +15,18 @@ Ideas para generar confianza.
 Ideas para generar seguridad psicológica.
  * Alejar toda intención de individualismo en el equipo.
  * Incentivar el aprendizaje autonomo.
+
+Herramientas para colaboración.
+ * Trello.
+ * Wiki's.
+ * Jira.
+ * Slack.
+ * Almacenamiento en la nube (Google Drive, OneDrive, Dropbox, entre otras).
+ * Documentos compartidos en nube (Google, Office, WPS Office Premium, entre otros).
+ * Email corporativo.
+ * Gestores Documentales
+ * Plataformas para video conferencias (Google Meet, Zoom, Teams, entre otros).
+ 
+Mecanismo para la toma de decisiones.
+Creo que las decisiones de la empresa son importantes y se deben dejar en manos de las personas que saben leer los indicadores de una empresa.
+Pero si seria bueno que siguiendo la jerarquia establecida dentro de la empresa se tomen en cuenta las sugerencias que hagan los empleados a sus lideres.
