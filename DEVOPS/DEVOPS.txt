@@ -27,6 +27,12 @@ Herramientas para colaboración.
  * Gestores Documentales
  * Plataformas para video conferencias (Google Meet, Zoom, Teams, entre otros).
  
+Estructura de comunicación.
+La estructura que creo conveniente es:
+Reuniones de cada equipo con su lider, y este a su vez se reuniria con los lideres de las otras áreas involucradas, y cada lider comunicaria luego a su equipo
+la información obtenida o acuerdos pactados en las reuniones.
+ 
 Mecanismo para la toma de decisiones.
 Creo que las decisiones de la empresa son importantes y se deben dejar en manos de las personas que saben leer los indicadores de una empresa.
-Pero si seria bueno que siguiendo la jerarquia establecida dentro de la empresa se tomen en cuenta las sugerencias que hagan los empleados a sus lideres.
+Pero si seria bueno que siguiendo la jerarquia establecida dentro de la empresa se tomen en cuenta las sugerencias que hagan los empleados a sus lideres
+y estos las hagan llegar a la gerencia para su consideración.
