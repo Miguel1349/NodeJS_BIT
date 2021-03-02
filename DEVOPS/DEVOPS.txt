@@ -3,3 +3,15 @@
 Para mi el termino DEVOPS se refiere a un ciclo que involucra los distintos procesos presentes en el desarrollo de software,
 dichos procesos deben estar definidos y alineados. Creo que el termino DEVOPS tambien encierra todas las tecnologías disponibles
 para agilizar el ciclo de desarrollo de software.
+
+Ideas para generar empatía.
+ * Conocer gustos personales de los integrantes del equipo(musica, lectura, hobbies,comida, etc...).
+ * Compartir espacios no laborales en los que se integre a todo el equipo.
+ 
+Ideas para generar confianza.
+ * No desmeritar los aportes de ningún integrante.
+ * Estar dispuesto a ayudar y a enseñar en caso de ser necesario.
+ 
+Ideas para generar seguridad psicológica.
+ * Alejar toda intención de individualismo en el equipo.
+ * Incentivar el aprendizaje autonomo.
