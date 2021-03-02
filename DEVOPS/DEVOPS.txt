@@ -1,0 +1,5 @@
+¿Qué es DEVOPS?
+
+Para mi el termino DEVOPS se refiere a un ciclo que involucra los distintos procesos presentes en el desarrollo de software,
+dichos procesos deben estar definidos y alineados. Creo que el termino DEVOPS tambien encierra todas las tecnologías disponibles
+para agilizar el ciclo de desarrollo de software.
