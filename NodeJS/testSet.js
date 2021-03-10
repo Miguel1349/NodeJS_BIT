@@ -1,3 +1,6 @@
+/*
+ * Este programa lista los hobbies de una persona, agrega y borra
+ */
 let persona = {
     nombre: 'Miguel',
     apellido: 'Blanco',
