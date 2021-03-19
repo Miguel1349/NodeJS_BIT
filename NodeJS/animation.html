@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation</title>
+    <style>
+        .container {
+            border: red solid 3px;
+            width: 900px;
+            height: 500px;
+            margin: 70px auto;
+            padding: 5px;
+        }
+
+        .console {
+            border: green solid 3px;
+            height: 400px;
+            width: 190px;
+            margin-left: 10px;
+            margin-top: 10px;
+            padding-left: 1em;
+        }
+
+        .stack {
+            border: yellow solid 3px;
+            height: 200px;
+            width: 190px;
+            margin-left: 260px;
+            margin-top: -405px;
+            padding-left: 1em;
+        }
+        
+        .webapis {
+            border: violet solid 3px;
+            height: 200px;
+            width: 200px;
+            margin-left: 520px;
+            margin-top: -205px;
+            padding-left: 1em;
+        }
+
+        .task {
+            border: turquoise solid 3px;
+            height: 175px;
+            width: 460px;
+            margin-left: 260px;
+            margin-top: 20px;
+            padding-left: 1em;
+        }
+
+        .button {
+            width: 300px;
+            height: 40px;
+            margin: 20px 350px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="console">
+            <h1>Console</h1>
+            <p id="consola">
+            </p>
+        </div>
+        <div class="stack">
+            <h1>Stack</h1>
+            <p id="stack">
+
+            </p>
+        </div>
+        <div class="webapis">
+            <h1>Webapis</h1>
+            <p id="webapis">
+
+            </p>
+        </div>
+        <div class="task">
+            <h1>Task</h1>
+            <p id="task">
+
+            </p>
+        </div>
+        <button
+            onclick=runAnimation()
+            class="button"
+        >
+            Start
+        </button>
+    </div>
+    <script>
+        function runAnimation() {
+            consola('Hi');
+            timer();
+            consola('JSConfEU');
+        }
+
+        function consola(mensaje) {
+            document.getElementById('stack').innerText += `\nconsole.log(${mensaje});`;
+            setTimeout(() => document.getElementById('consola').innerText += '\n' + mensaje, 2000);
+        }
+
+        function timer() {
+            document.getElementById('webapis').innerText += `function g()`;
+            setTimeout(g, 5000);
+        }
+
+        function g() {
+            document.getElementById('webapis').innerText = '';
+            document.getElementById('task').innerText += 'fucntion g(x) { console.log(x*x) } ';
+            task();
+        }
+
+        function task() {
+            setTimeout(() => {
+                document.getElementById('stack').innerText = '';
+                setTimeout(() => {
+                    document.getElementById('task').innerText = '';
+                    document.getElementById('stack').innerText += 'fucntion g(2)} ';
+                    setTimeout(() => {
+                        document.getElementById('consola').innerText += '\n4';                        
+                        document.getElementById('stack').innerText = '';
+                    }, 2000);
+                }, 2000);
+            }, 3000);
+        }
+    </script>
+</body>
+</html>
