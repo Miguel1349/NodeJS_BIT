@@ -1,0 +1,22 @@
+{
+    "presets": [
+        [
+            "@babel/env",
+            {
+                "targets": {
+                    "firefox": "80",
+                    "chrome": "80",
+                    "safari": "13.1"
+                },
+                "useBuiltIns": "usage",
+                "corejs": "3.6.5"
+            }
+        ],
+        [
+            "@babel/preset-react"
+        ],
+        [
+            "@babel/preset-typescript"
+        ]
+    ]
+}
