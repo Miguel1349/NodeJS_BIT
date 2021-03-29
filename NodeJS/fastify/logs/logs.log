@@ -1,0 +1,13 @@
+{"level":30,"time":1616789608344,"pid":6092,"hostname":"PSLT6168","msg":"Server listening at http://127.0.0.1:3001"}
+{"level":30,"time":1616789614440,"pid":6092,"hostname":"PSLT6168","reqId":"req-1","req":{"method":"GET","url":"/","hostname":"127.0.0.1:3001","remoteAddress":"127.0.0.1","remotePort":56516},"msg":"incoming request"}
+{"level":30,"time":1616789614446,"pid":6092,"hostname":"PSLT6168","reqId":"req-1","msg":"Un get a nuestro server Fri Mar 26 2021 15:13:34 GMT-0500 (hora estándar de Colombia)"}
+{"level":30,"time":1616789614449,"pid":6092,"hostname":"PSLT6168","reqId":"req-1","res":{"statusCode":200},"responseTime":7.994299992918968,"msg":"request completed"}
+{"level":30,"time":1616789615921,"pid":6092,"hostname":"PSLT6168","reqId":"req-2","req":{"method":"GET","url":"/","hostname":"127.0.0.1:3001","remoteAddress":"127.0.0.1","remotePort":56516},"msg":"incoming request"}
+{"level":30,"time":1616789615933,"pid":6092,"hostname":"PSLT6168","reqId":"req-2","msg":"Un get a nuestro server Fri Mar 26 2021 15:13:35 GMT-0500 (hora estándar de Colombia)"}
+{"level":30,"time":1616789615934,"pid":6092,"hostname":"PSLT6168","reqId":"req-2","res":{"statusCode":200},"responseTime":1.3648000061511993,"msg":"request completed"}
+{"level":30,"time":1616789616255,"pid":6092,"hostname":"PSLT6168","reqId":"req-3","req":{"method":"GET","url":"/","hostname":"127.0.0.1:3001","remoteAddress":"127.0.0.1","remotePort":56516},"msg":"incoming request"}
+{"level":30,"time":1616789616255,"pid":6092,"hostname":"PSLT6168","reqId":"req-3","msg":"Un get a nuestro server Fri Mar 26 2021 15:13:36 GMT-0500 (hora estándar de Colombia)"}
+{"level":30,"time":1616789616256,"pid":6092,"hostname":"PSLT6168","reqId":"req-3","res":{"statusCode":200},"responseTime":0.915800005197525,"msg":"request completed"}
+{"level":30,"time":1616789616436,"pid":6092,"hostname":"PSLT6168","reqId":"req-4","req":{"method":"GET","url":"/","hostname":"127.0.0.1:3001","remoteAddress":"127.0.0.1","remotePort":56516},"msg":"incoming request"}
+{"level":30,"time":1616789616437,"pid":6092,"hostname":"PSLT6168","reqId":"req-4","msg":"Un get a nuestro server Fri Mar 26 2021 15:13:36 GMT-0500 (hora estándar de Colombia)"}
+{"level":30,"time":1616789616438,"pid":6092,"hostname":"PSLT6168","reqId":"req-4","res":{"statusCode":200},"responseTime":1.4624999910593033,"msg":"request completed"}
