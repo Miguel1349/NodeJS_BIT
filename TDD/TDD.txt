@@ -2,6 +2,7 @@ Idea: Aplicación para hacer mandados o prestar servicios domésticos.
 
 Requerimientos:
 1 - Registro de usuarios.
+  * Los usuarios deben ingresar
 2 - Actualizar el estado del usuario con verificación de email.
 3 - Actualizar el estado del usuario con verificación de celular.
 4 - Publicar los servicios que ofrece un usuario.
