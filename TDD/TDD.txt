@@ -2,8 +2,15 @@ Idea: Aplicación para hacer mandados o prestar servicios domésticos.
 
 Requerimientos:
 1 - Registro de usuarios.
-  * Los usuarios deben ingresar
+  * Se deben tener los campos email, contraseña y número de celular.
+  * El email ingresado sera el nombre de usuario.
+  * La contraseña debe ser de minimo 6 caracteres.
+  * La contraseña debe contener almenos un caracter especial
 2 - Actualizar el estado del usuario con verificación de email.
+  * Enviar un enlace al email registrado por el usuario para verificar su cuenta.
+  * El enlace de verificación debe tener vigencia de 24 horas.
 3 - Actualizar el estado del usuario con verificación de celular.
+  * Enviar un código via mensaje de texto al número de celular registrado por el usuario para verificar su cuenta.
+  * El código de verificación debe tener vigencia de 24 horas.
 4 - Publicar los servicios que ofrece un usuario.
 5 - Solicitar los servicios de un usuario.
